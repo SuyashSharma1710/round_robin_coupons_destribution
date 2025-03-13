@@ -2,6 +2,10 @@
 
 In this guide, I'll walk you through how the Round-Robin Coupon Distribution system is built, explaining each part step by step. This system ensures that coupons are distributed evenly while preventing users from abusing the system by refreshing the page or using multiple browsers.
 
+try it here [Get Coupons](https://round-robin-coupons-destribution.vercel.app/)
+
+There is the whole [DOCUMENT](https://docs.google.com/document/d/1RJwS49Jv4IcAm-IAiDfkpdETTkhWPrFbnTQr4fIZN_M/edit?usp=sharing)
+
 ## 🌟 Overview
 
 The main goal of this system is to distribute a set of coupons to guest users, ensuring:
