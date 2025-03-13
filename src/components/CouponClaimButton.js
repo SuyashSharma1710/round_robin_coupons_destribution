@@ -5,7 +5,7 @@ export default function CouponClaimButton() {
   const [coupon, setCoupon] = useState(null);
 
   const claimCoupon = async () => {
-    const response = await fetch('/api/claim-coupon', { method: 'POST' });
+    const response = await fetch('/api/claim_coupon', { method: 'POST' });
     const data = await response.json();
 
     if (response.ok) {
